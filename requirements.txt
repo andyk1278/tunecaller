@@ -9,7 +9,7 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 ngtk==0.1.1
-PyJWT==1.5.3
+PyJWT==2.4.0
 PySocks==1.6.7
 python3-ngrok==0.2
 pytz==2017.3
